@@ -1,4 +1,4 @@
-# Getting Started react-redux  
+# Getting Started redux  
 This project is my first that I used redux.
 ## For run  
 ### `npm install`  
